@@ -8,3 +8,7 @@ It includes 5 parts.
 # 2. Dithering
 
 # 3. Edge and contour detection
+
+# 4. Light Field Imaging
+
+# 5. Subjective and Objective Quality Assessment
