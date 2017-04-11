@@ -6,3 +6,5 @@ It includes 5 parts.
 # 1. Quantization, Sampling, Filtering, 2DFT, Weber law
 
 # 2. Dithering
+
+# 3. Edge and contour detection
