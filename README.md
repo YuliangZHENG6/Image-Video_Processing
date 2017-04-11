@@ -14,4 +14,4 @@ It basically contains the following dithering methods:
 
 6. Ordered matrix with dispersed dots
 
-7. Error di↵usion method
+7. Error diffusion method
