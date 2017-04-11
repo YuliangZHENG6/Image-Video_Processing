@@ -1,8 +1,11 @@
-# Image-Video_Processing
-It contains all the MATLAB code refers to the course of "Image and Video Processing". It includes topics such as edge and contour detection, dithering, etc.
+# 3. Edge and contour detection
 
-It includes 5 parts.
+It uses the following methods to do edge and contour detection:
 
-# 1. Quantization, Sampling, Filtering, 2DFT, Weber law
+1. Template method
 
-# 2. Dithering
+2. Compass operator
+
+3. Laplace operator
+
+4. Frei-Chen method
